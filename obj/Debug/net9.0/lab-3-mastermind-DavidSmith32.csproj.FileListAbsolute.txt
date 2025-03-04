@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\my-code-directory\lab-3-mastermind-DavidSmith32\obj\Debug\net9.0\lab-3-mastermind-DavidSmith32.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\my-code-directory\lab-3-mastermind-DavidSmith32\obj\Debug\net9.0\lab-3-mastermind-DavidSmith32.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\my-code-directory\lab-3-mastermind-DavidSmith32\obj\Debug\net9.0\lab-3-mastermind-DavidSmith32.AssemblyInfo.cs
+C:\Users\student\Desktop\my-code-directory\lab-3-mastermind-DavidSmith32\obj\Debug\net9.0\lab-3-mastermind-DavidSmith32.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\my-code-directory\lab-3-mastermind-DavidSmith32\obj\Debug\net9.0\lab-3-mastermind-DavidSmith32.sourcelink.json
+C:\Users\student\Desktop\my-code-directory\lab-3-mastermind-DavidSmith32\bin\Debug\net9.0\lab-3-mastermind-DavidSmith32.exe
+C:\Users\student\Desktop\my-code-directory\lab-3-mastermind-DavidSmith32\bin\Debug\net9.0\lab-3-mastermind-DavidSmith32.deps.json
+C:\Users\student\Desktop\my-code-directory\lab-3-mastermind-DavidSmith32\bin\Debug\net9.0\lab-3-mastermind-DavidSmith32.runtimeconfig.json
+C:\Users\student\Desktop\my-code-directory\lab-3-mastermind-DavidSmith32\bin\Debug\net9.0\lab-3-mastermind-DavidSmith32.dll
+C:\Users\student\Desktop\my-code-directory\lab-3-mastermind-DavidSmith32\bin\Debug\net9.0\lab-3-mastermind-DavidSmith32.pdb
+C:\Users\student\Desktop\my-code-directory\lab-3-mastermind-DavidSmith32\obj\Debug\net9.0\lab-3-mastermind-DavidSmith32.dll
+C:\Users\student\Desktop\my-code-directory\lab-3-mastermind-DavidSmith32\obj\Debug\net9.0\refint\lab-3-mastermind-DavidSmith32.dll
+C:\Users\student\Desktop\my-code-directory\lab-3-mastermind-DavidSmith32\obj\Debug\net9.0\lab-3-mastermind-DavidSmith32.pdb
+C:\Users\student\Desktop\my-code-directory\lab-3-mastermind-DavidSmith32\obj\Debug\net9.0\lab-3-mastermind-DavidSmith32.genruntimeconfig.cache
+C:\Users\student\Desktop\my-code-directory\lab-3-mastermind-DavidSmith32\obj\Debug\net9.0\ref\lab-3-mastermind-DavidSmith32.dll
